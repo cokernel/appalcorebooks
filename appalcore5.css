@@ -1,0 +1,55 @@
+body {
+    background-color: #0f0f06;
+    background-color: #333333;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%
+}
+
+h1 {
+    font: oblique small-caps 900 14px/18px arial;
+    font-size:xx-large;
+    color: #ffffff;
+}
+
+h2 {
+    font: oblique small-caps 900 14px/18px arial;
+    font-size: large;
+    color: #ffffff;
+}
+
+h3 {
+    font: oblique small-caps 900 14px/18px arial;
+    font-size: small;
+    color: #ffffff;
+}
+
+
+p, li, td {
+    font-family: arial;
+    font-size: 1.25em;
+    color: #cccc66;
+}
+
+em {
+    font-family: arial;
+    color: #ffffcc
+}
+
+div {
+    font: oblique small-caps 900 14px/18px arial;
+    font-size: 1.1em;
+}
+
+a:link {
+  color: #ffff99;
+}
+a:visited {
+  color: #666633;
+}
+a:active {
+  color: #ffffff;
+}
+a:hover {
+  color: #ffffff;
+}
